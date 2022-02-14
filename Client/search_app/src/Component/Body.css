@@ -1,0 +1,31 @@
+.body{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 327px;
+    height: 40px;
+    border: 2px solid;
+    border-radius: 21px;
+    font-size: large;
+    font-weight: 600;
+    padding-left: 190px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 9px;
+}
+.button button{
+    width: 171px;
+    height: 29px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.result{
+    display: flex;
+    justify-content: center;
+    margin-top: 53px;
+}
+
+/* Made by Abhishek Dash */
